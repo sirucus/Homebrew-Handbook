@@ -1,0 +1,1 @@
+an area of purpetual, extremely dense fog. a favorite hunting grounds for blind predators. do not wander in without proper preperations

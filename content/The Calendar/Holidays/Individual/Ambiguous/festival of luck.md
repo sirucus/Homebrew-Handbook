@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+Children play a city wide game of hide and seek, the last child found wins a scholarship to the local magic school. Adults take part in a lottery, the winner of which gains a Patron in the Mayor for a year - the Mayor grants favours and influence to try and enhance your social/professional situation.

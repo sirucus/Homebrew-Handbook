@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+Adepts at the shortbow and longbow compete in a test of skill and accuracy (ex. piercing a thrown copper penny-sized item in the center), hitting fast moving targets from horseback. Gnome artificers, smiths, and other weapons craftsmen travel to the city from far and wide to tout their new inventions and wares. The festival began when the city was a small village and those who came of age had to prove their proficiency with the weapon as part of demonstrating their skills in order to successfully hunt and defend the community.

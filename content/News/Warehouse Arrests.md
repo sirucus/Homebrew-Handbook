@@ -1,0 +1,5 @@
+the guards have made some arrests in the warehouse district. members of the guard, along with some adventurers, executed a raid on the warehouse during the day on karsday. these adventurers, notabley, were the same ones that cleared the library as part of, what we now know, was their guild trial.
+
+we interviewed one of the guards that was part of the raid. Jimmy Jameson, a longtime guard of Valeris, stated that while he couldnt share many details, the guards exploring the warehouse found a hidden room with much contraband. "I want to applaud the actions of the guardsman," Jimmy states, "for putting a stop to these dangerous criminals, and stopping the influx of drugs and other illegal items onto our streets."
+
+some of our sources say that this was actually a branch of the infamous, Crippled Blood Gang. the gang, who has not managed to get a large foothold in Valeris, has been wrecking havoc across the country

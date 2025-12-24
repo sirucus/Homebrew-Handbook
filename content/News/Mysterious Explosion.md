@@ -1,0 +1,1 @@
+there was a large explosion last night in the woods outside of Valeris. guardsman that went to investigate for that there was a clearing that seemed to have had a fireball spell go off in it. adventurers guild offering minor reward for information.

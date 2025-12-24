@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+One the day of the first rain after the summer months, the entire town gathers on the outskirts and has a race. Anyone who finishes in the top ten are exempt from the strenuous labors that come with damming up the rivers, or strengthening the embankments around the city to prevent mudslides. This promotes a lean and fit community.

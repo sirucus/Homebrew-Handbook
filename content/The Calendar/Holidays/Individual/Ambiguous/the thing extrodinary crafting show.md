@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+The Thing Extraordinary Crafter’s Show – Focus is on crafting. Held at the western caravan junction. This was set up to commemorate the sudden and mysterious disappearance of a local nomadic people, who would always stop here and hold an exposition for their greatest craftsmen.

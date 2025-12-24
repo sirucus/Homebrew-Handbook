@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+After an incident where a mimic disguised as a barstool bit off a chunk of a poor patron’s bum, the tavern’s inebriated clientele burned all its barstools in the street. An afternoon of drinking and building street bonfires made of barstools and other flammables has since become an annual holiday that has spread to all the taverns in the city. The taverns use the bump in proceeds to buy new barstools.

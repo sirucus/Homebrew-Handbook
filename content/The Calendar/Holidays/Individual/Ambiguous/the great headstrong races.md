@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+this is a time of personal speed races; foot races, climb races, mud tobogganing, etc. A festival honoring the legend of Aryth, who is known as the fastest creature to live. Aryth ran a very long distance in order to warn the city of an approaching army, and the entire town survived because of it. They say that he ran so fast, that his soul ran right out of his body, because he died shortly after delivering the warning.

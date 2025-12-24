@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+Contests of the best food and drink. It’s held in Gatherhold by the House Ghallanda. The roots here go back a very long time to when the local Patriarch would force his cooks to eat their dish in front of him, to ensure that it was not poisoned. Long after he died, the tradition was carried on, but without the terrible connotations.

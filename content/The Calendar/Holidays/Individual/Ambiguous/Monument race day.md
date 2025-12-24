@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+It is said that when a near by volcano erupted destroying the old town, after evacuating their families many of the villagers returned to move the stone monument from the old town center to the new town’s location. In honor of this deed, every year on the anniversary of the eruption, the townspeople form teams that carry replica monuments in a race from the site of the old village to the monuments’s current location. Afterwards the town celebrates by having lava soup (a spicy red tomato based soup), with monument shaped bread rolls.

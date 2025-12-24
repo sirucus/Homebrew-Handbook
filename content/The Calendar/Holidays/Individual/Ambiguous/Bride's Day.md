@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+Commemorating the beginning of summer, all the new brides dance with the unmarried women, to imbue to them their own marital fortunes. The dance takes place in the kings courtyard and no males are allowed in. At the end the queen usually tries to set up an unwed dancer with a royal family member.

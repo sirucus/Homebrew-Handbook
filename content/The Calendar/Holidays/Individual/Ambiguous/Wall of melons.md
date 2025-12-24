@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+A hundred years ago the city was under siege. The invaders climbed a wall to get inside only to be rebuffed by peasants who tore down their own homes to toss rocks down on the climbers. The day is celebrated by a committee selecting a portion of wall up witch a the town’s young men try to clamber. At top are an equal bumber of lasses armed with melons both ripe and rotten. It isbl traditional for the first climber up to ask for and be given the hand in marriage of his choice. The climbers are protected by feather fall spells and blanket carrying elders.

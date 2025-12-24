@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+This holiday is when the arenas open! They close during the colder, darker, and more dangerous months but make up for that break by having the first day they open they celebrate by having amazing spectacle and unique events.

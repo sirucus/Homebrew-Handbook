@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+The cultural event of contests of plays, and light and illusions. This has become tradition from long ago, before written history was a thing. All history was passed down via stories, or even play-like things being acted out.

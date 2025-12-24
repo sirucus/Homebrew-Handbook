@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+A yearly celebration in town, where townsfolk race boats, swim, drink locally brew beer and feast on roasted fish. A reminder to appreciate the gifts the waters bring them, and to remember the year a storm tore through the town, destroying most of the crops and buildngs. The boat race is a recreation of the villagers urgent travel seeking aid.

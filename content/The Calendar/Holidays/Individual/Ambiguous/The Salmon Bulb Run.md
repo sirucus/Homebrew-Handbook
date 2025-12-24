@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+It is this time each year that the giant salmon (which dwell within the nearby rivers) finish their yearly rot on the shores of nearby villages. You see, each year the salmon spawn, die, then float to shore causing a special type of psychedelic river mushroom to form on their carcasses (after they rot for approximately a year). These mushrooms are collected and shared amongst the Firbolg community as a right of passage.

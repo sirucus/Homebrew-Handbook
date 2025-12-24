@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+a holiday commonly celebrated by lycanthropes on the nights of lunar eclipses. It usually involves going into non-lycanthrope villages and committing… random acts of kindness. Tending to neglected gardens, driving away predators from livestock, dealing with pests, etcetera. This holiday is symbolic to them, signifying that they haven’t lost their personhood, as well as helps to destigmatize the lunar eclipse so that everyone can enjoy its beauty.

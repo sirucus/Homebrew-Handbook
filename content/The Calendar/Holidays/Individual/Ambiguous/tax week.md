@@ -1,0 +1,3 @@
+[[Holidays|holiday]]
+
+Although it isn’t the only time that taxes are collected, this week is the worst week to be a tax collector. People set up elaborate pranks, which normally cause little to no bodily harm, to scare and slow down tax collectors, just to give people the time to get their taxes in order last minute. The nation recognizes this as a mostly harmless, albeit annoying, piece of culture, but works to regulate it so that last year’s incident will not happen again.

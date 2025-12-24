@@ -1,0 +1,2 @@
+[[Holidays|holiday]]
+honored the day before winter. Legend has it that a man named Theron who existed long ago lost his wife that day. He was so distraught that he began to cry and wail, not eating or drinking. In a state of rage and depression, Theron was transformed into the Winds of Winter, where you can hear his howls and cries to this day. To appease the Winds, one should fast the day before winter to show solidarity with Theron, so that the winds will not be too cold or too fierce.
