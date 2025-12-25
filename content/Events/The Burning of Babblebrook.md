@@ -1,7 +1,0 @@
-the burning of [[babblebrook]] was an attack on the town by [[The church]]. after the discovery of a massive heartstone in the [[babblebrook]] mines, [[the church]] wished to aquire it for themselve. this was partially to keep it out of others hands, but also to help cement their own position in the international power struggle.
-
-[[The Queen of Starlight, Emilia Nightbloom]] of [[Valeris]] was aware of this attack but was unable to do anything to directly oppose the attack as [[the church]] had gone as far as to declare that the village was infested with cultists. she instead sent an elite group to claim the heartstone for herself, and to keep it out of the hand of [[the church]].
-
-[[Party 1]] was caught up in this attack and did their best to defend and rescue the civilians of [[babblebrook]] after witnessing [[the church]] cutting them down indescriminantly.
-
-they originally intended to leave through the forest to [[foxburn]], but after facing a bishop of [[the church]], and witnessing her be cut down by [[The Raven]], they decided to make it a sort of safe base to keep townsfolk while they went back and tried to save more people. after clearing the majority of the town, they boarded [[the halifax]] with the townsfolk, as well as captured church members, and sailed for [[Valeris]]

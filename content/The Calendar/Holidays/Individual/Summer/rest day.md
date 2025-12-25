@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-This holiday is towards the end of Farmer's Tale (one of the homebrew seasons I made) and is for the farmers. Everyone takes the day off to relax and spend time doing what makes them happy. It originated from the farmers finishing their work planting, plowing, and working their fields and resting before the busy time of harvesting their crop.

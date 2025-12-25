@@ -1,1 +1,0 @@
-The palace at [[Valeris]]

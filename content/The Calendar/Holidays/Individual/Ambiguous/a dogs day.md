@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-a day when all collected dogs in various animal control facilities are adopted. This came about after a group of druids wildshaped as direwolves saved the mayor of the city from a painful death. Before leaving, the “direwolves” told him to make sure every dog has it’s day.

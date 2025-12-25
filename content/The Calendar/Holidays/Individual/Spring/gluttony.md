@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-though not a festival per se, the first two months of the year are always eagerly anticipated by the hobbi… the halflingses of Portree. The tradition of the wealthier houses organising lavish bashes during the time as a means of canvassing has replaced a very loose sense of meritocratic governance with a very enthusiastic intoxicracy.

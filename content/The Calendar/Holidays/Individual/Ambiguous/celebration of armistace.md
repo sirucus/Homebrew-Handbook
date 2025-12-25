@@ -1,4 +1,0 @@
-[[Holidays|holiday]]
-Once a year, the ambassadors of every major city in the neighboring continents bring gifts to all the smaller hamlets and towns around the land. Gifts include anything from supplemental food to last for a long winter, new technologies, mages looking to relocate and can lend a hand to smaller communities… This tradition goes back some centuries, long enough that even few elves remember the origins. Legend says that a great tyrant sought to control the lands around, and a massive war raged for a long time. Eventually the tyrant was assassinated from the inside of his court, and his officers extended an olive branch to the peoples around, before disappearing themselves.
-
-it was the tieflings who extended the olive branch

@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-Every few months, the moon will rise with a golden glow for two or three nights. In the little town of; they say that the moon does this when someone, somewhere, finds true love. During these days, tables are set out in the streets and people ask others to join them on dates, platonic and romantic, underneath the golden moonlight (similar to real world valentines dates).

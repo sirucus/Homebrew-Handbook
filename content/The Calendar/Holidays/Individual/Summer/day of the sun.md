@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-A day where the full arrival of summer is celebrated. Fire dancers, limbo contests involving burning poles, racing on hot coals, and an abundance of free saunas make up the bulk of this holiday. On this day, people are just generally trying to have fun by incorporating fire, heat, and warmth into their life.

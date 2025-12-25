@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-This day is heralded as a life-giving day, one in which animals are cared for extremely (combed fur, washed hooves, praised mosquitoes, etc). The consumption of meat is banned for the day, and all must sleep early, with a loved one, if possible.

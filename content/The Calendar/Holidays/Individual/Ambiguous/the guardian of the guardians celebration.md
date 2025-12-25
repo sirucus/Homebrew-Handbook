@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-a holiday in honor of a historic battle where the country's military was nearly defeated but was saved by the civilians that they were supposed to protect, letting them regroup and win the day. Thus they now spend the anniversary of the battle helping others and doing humane work and generally helping the civilian populous. This has the added benefit of making being a citizen of the country but might end up driving a wedge between them and immigrants.

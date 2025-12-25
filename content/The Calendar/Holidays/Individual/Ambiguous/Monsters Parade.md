@@ -1,4 +1,0 @@
-[[Holidays|holiday]]
-Once a year, all the cities in region hold a parade where all the participants wear elaborate monster costumes. Larger cities may employ magicians for special effects and have multistory beasts mounted on wheeled carts with movable parts and participants riding inside. The final attraction in the parade is the “holy paladin” with an elaborate armor outfit and costume weapons who is driving the “monsters” away. The role of the paladin is chosen by popularity contest or some other method, and is almost never an actual paladin. The parade celebrates a plot to deter a foreign attack by making it appear that terrifying monsters had already overrun the streets, yet they were easily defeated and driven off by guards.
-
-idk maybe adventurers showing off?

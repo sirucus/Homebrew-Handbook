@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-A day in which the inhabitants of the world celebrate the new year. There is just generally lots of revelry and good times with people being in high spirits, appreciating each other's company, and attending bardic musical festivals.

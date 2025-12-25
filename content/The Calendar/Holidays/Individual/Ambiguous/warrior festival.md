@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-where everyone settles long lasting disputes in the arena on this day. Families choose the strongest in their family to battle. Fatalities are not allowed and everyone celebrates with a grand feast and lots of ale.

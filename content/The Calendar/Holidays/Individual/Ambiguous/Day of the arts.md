@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-An elven celebration where every form of art is honored. For months before this day, humanoids all across the Material Plane prepare songs, plays, dances, paintings, sculptures, and many other forms of art. A favorite day for many satyrs, with many placing it right behind Ale Day in their lists. Bards of many peoples are particularly fond of this festival. Silver dragons also love to celebrate alongside the humanoids that have arrived.

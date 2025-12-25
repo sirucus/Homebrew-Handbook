@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-The Zarantyr Drumming Festival – Focus is on drumming and singing. This harkens back to the community’s roots as a marching war band, before they settled in and created their own kingdom.

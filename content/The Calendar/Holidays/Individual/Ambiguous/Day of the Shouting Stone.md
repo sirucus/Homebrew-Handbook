@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-local barbarians meet up to scream at a large boulder on the edge of town. In barbarian lore, it is fabled that this stone was one a powerful barbarian who shouted at another, larger boulder until it split in two, and he was then transformed into a boulder himself.

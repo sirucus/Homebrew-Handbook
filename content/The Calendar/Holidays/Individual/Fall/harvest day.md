@@ -1,4 +1,0 @@
-[[Holidays|holiday]]
-A day in which the people of the world pay their thanks to those who toil in the fields and gather food. Massive food festivals are held worldwide and, for one day, class divide does not exist as nobles and peasants eat side by side. It is also tradition to express your gratefulness towards a group of people or a specific individual on Harvest Day. It is customary to do this at the nearest cathedral so that the gods may witness it as well. Typically, the recipient is usually present if it is a single person or, if it is a group that one is grateful for, the most available representative is present.
-
-[[Harvest holiday]]

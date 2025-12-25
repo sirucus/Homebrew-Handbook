@@ -1,1 +1,0 @@
-a mad magician has been experimenting deep in a cave with a highly deadly and adaptable lifeform (Xenomorphs) the party will be stalked by these lifeforms and will have to take them out or else they will sweep the continent and wipe out life as we know it

@@ -1,1 +1,0 @@
-the major religious power on [[solaris]], the church as a whole worships the gods

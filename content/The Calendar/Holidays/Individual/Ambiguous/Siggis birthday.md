@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-A great shield maiden gave her life to save the city. Women can let anyone they are sweet on know by picking them up over their shoulders and hauling them off. Siggi wasn’t known for her subtlety. Rooms at the Inn are free in her honor.

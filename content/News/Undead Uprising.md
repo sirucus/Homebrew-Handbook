@@ -1,1 +1,0 @@
-Skeletons have been being sighted more and more in the area. they seem to be related to a new adventurer.

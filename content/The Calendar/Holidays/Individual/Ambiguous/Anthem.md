@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-the proud holiday of the city where a multitude of people gather drunkenly in the streets to sing bawdy songs loudly and obnoxiously. Anyone who asks them to keep quiet is met with a barrage of rotten fruits and/or vegetables. This comes from a when the demons enslaved the people. The singing was the first act of rebellion, and the rotten fruits signify when the city folk began attacking to drive them out.

@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-Held at the height of summer. A highly respected priest started this tradition many years ago for those who could not afford to enter the elitist bath-houses. Townspeople gather at the calmest part of a great river just outside of town and bath naked. Considered a family friendly event, those who attend forgo their qualms about nudity and know that all are equal in the eyes of the constantly moving water.

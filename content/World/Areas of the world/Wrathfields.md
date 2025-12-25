@@ -1,1 +1,0 @@
-a large stretch of ground that is scarred by a fire that raged through in the past

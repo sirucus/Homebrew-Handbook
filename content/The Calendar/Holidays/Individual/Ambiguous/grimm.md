@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-Orcish first blood ritual. An orc is a child until they are blooded, among the more civilized tribes of orcs this takes place in a festival called Grimm. Those deemed worthy or are brazen enough to try form a Wog or raiding party then a suitable target is chosen usually small Kobold warren or goblin outpost. All participants must bring back a heart for Grummush (their god) and a head to prove their prowess.

@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-An artful festival for fabric makers. Celebrates the day when the nearby forest’s local spider population came to the townspeople asking for help to safeguard their nests from foraging cockatrices. The local seamstresses responded by making large, sturdy fabric webs for the spiders to hide in until the cockatrices could be dealt with.

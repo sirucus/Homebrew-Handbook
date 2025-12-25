@@ -1,1 +1,0 @@
-The public library has been cleared of the fey menace plaguing it by 5 bronze rank adventurers

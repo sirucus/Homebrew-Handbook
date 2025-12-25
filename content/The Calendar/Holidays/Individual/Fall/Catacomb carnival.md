@@ -1,4 +1,0 @@
-[[Holidays|holiday]]
-Once per year in the great cities the citizens head to the catacombs to celebrate another year alive and honor the dead interred in them by properly cleaning and arranging the bones of those that have been in the catacombs for a year into elaborate structures and designs. Any bones that are damaged in any way are burned in a great pyre in the city square and the ashes are used in the mortar of the bone sculptures below. They also leave offerings to the beetles and rats that do the job of stripping the bodies down to the bone. After the catacombs have been cleaned and the years previous dead have been attended to there is a day and night of celebration where revelers light the catacombs and tunnels and celebrate in procession above and below the streets wearing masks of beetles, rats, and skeletons to ward off any dark spirits and denizens that might also haunt the dark recesses below the city.
-
-merge with [[Festival of the dead]]

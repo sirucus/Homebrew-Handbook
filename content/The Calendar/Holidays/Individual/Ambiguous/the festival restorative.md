@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-The Festival Restorative – Focus is on healing, health, love and renewed. Held by the House Jorasco. When a war raged nearby and people from all sides wandered in, hurting, House Jorasco responded by creating a safe haven for anyone injured, while nearby clerics or apothecaries would come in and provide rejuvenation to those hurt.

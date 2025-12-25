@@ -1,2 +1,0 @@
-[[Holidays|holiday]]
-a holiday for when the two moons are full when this happens Moon Lotus bloom and then this holiday with elvish roots begins it is typically celebrated with a festival at the closest lake
