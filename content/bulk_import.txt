@@ -1,174 +1,291 @@
-###FILE: Doomsight
+###FILE: Carilloneur's Staff
 ---
-type: Wondrous Item
+type: Staff
 rarity: Rare
 attunement: True
-source: Arcane Armoury Vol 1
+source: A Selection of Staves
 ---
-# Doomsight
-*Wondrous Item, Rare (Requires Attunement)*
+*Staff, Rare (Requires Attunement)*
 
-**Origins:** An overly generous beholder.
-
-**Description:** A highly exquisite monocle made of gold and silver. It grants some of the power that beholders are capable of invoking.
+**Origins:** Ancient bronze staff reminiscent of a shepherd's crook with a bronze bell.
 
 **Mechanics:**
-* **Darkvision:** You gain Darkvision out to 120ft.
-* **Eye Rays:** The monocle has **4 charges** and regains 1d4 charges daily at dawn. As a bonus action, you can expend a charge to focus on a target, unleashing a random ray (Roll d4):
-    1.  **Fear Ray:** DC 13 Wisdom save or be frightened for 1 minute (repeat save at end of turns).
-    2.  **Death Ray:** DC 13 Constitution save or take **3d10 necrotic damage** (half on success).
-    3.  **Force Ray:** DC 15 Strength save or be pushed 30ft (half distance on success).
-    4.  **Illusion Ray:** DC 13 Intelligence save or believe they are staring at a brick wall in all directions (repeat save at end of turns).
+* **Bonus:** **+1 bonus** to attack and damage rolls.
+* **Charges:** 3 charges (regains 1d3+1 daily at midnight).
+* **Sonorous Strike:** Expend 1 charge on hit. Creatures in 60ft radius must pass DC 16 Wisdom save or take **1d8 necrotic** (1d12 if below max HP). Target automatically fails.
+* **Death Knell:** Action (3 charges) to strike ground. Creatures in 60ft radius must pass DC 16 Wisdom save or take **5d6 necrotic** (half on success). Fail causes Frightened status for 1 minute.
 
-###FILE: Dragoneye
+###FILE: Rasul's Rod of the Desert
 ---
-type: Wondrous Item (Ring)
+type: Staff
 rarity: Rare
 attunement: True
-source: Arcane Armoury Vol 1
+source: A Selection of Staves
 ---
-# Dragoneye
-*Wondrous Item, Rare (Requires Attunement)*
+*Staff, Rare (Requires Attunement)*
 
-**Origins:** A chief dragon hunter.
-
-**Description:** Minimalistic rings with a massive crimson gem, said to be dipped in dragon blood.
+**Origins:** Ironwood stick with a red scarab trapped in amber.
 
 **Mechanics:**
-* **Adaptive Resistance:** Whenever you finish a short or long rest, choose one damage type: **lightning, poison, fire, or cold**. You have resistance to it until your next rest.
-* **Legendary Will:** Once per long rest, when you fail a saving throw, you may choose to succeed instead.
+* **Sand Form:** Bonus action to become swirling sand (1 minute).
+    * **Movement:** Fly and Burrow speed equal to walking speed (double burrow if in sand). Move through 1-inch spaces.
+    * **Resist:** Immune to nonmagical bludgeoning, piercing, and slashing.
+    * **Limit:** No attacks/spells while in form. Cooldown 1d8-1 days.
 
-###FILE: Elixir of Absolution
+###FILE: Dearmadach's Stick of Spontaneity
 ---
-type: Potion
+type: Staff
+rarity: Uncommon
+attunement: True (Wizard)
+source: A Selection of Staves
+---
+*Staff, Uncommon (Requires Attunement by a Wizard)*
+
+**Origins:** Gnarled alder staff like a walking cane.
+
+**Mechanics:**
+* **Shillelagh:** Wield as per *Shillelagh* cantrip.
+* **Spontaneity:** Cast any unknown/unprepared Wizard spell once per day by expending the appropriate slot.
+
+###FILE: Asklepian Rod
+---
+type: Staff
+rarity: Uncommon
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Uncommon (Requires Attunement)*
+
+**Origins:** Carving of a coiling serpent.
+
+**Mechanics:**
+* **Cantrip:** Cast *Spare the Dying* at will (spectral snake visual).
+* **Spells:** Cast *Detect Poison and Disease* (1/Day).
+* **Repose:** Cast *Gentle Repose*. Recharge: d10 roll of 10 at dawn.
+
+###FILE: Ferula of the Hidden Flame
+---
+type: Staff
+rarity: Rare
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Rare (Requires Attunement)*
+
+**Origins:** Petrified plant stalk with scalding flowers.
+
+**Mechanics:**
+* **Wall of Fire:** Cast *Wall of Fire* (1/Day). Can be invisible and moved 20ft as bonus action.
+* **Augury:** Cast *Augury* (1/Day). Staff ignites for weal, wilts for woe.
+
+###FILE: Staff of Eight Rings
+---
+type: Staff
+rarity: Artifact
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Artifact (Requires Attunement)*
+
+**Origins:** Plain wooden staff with eight rings stolen from sorcerer kings.
+
+**Mechanics:**
+* **Bonus:** **+3 bonus** to attack and damage.
+* **Channel:** Choose one Minor Power at dawn. Can use 3 Major Powers per day.
+* **Fracture:** 20% chance for a ring to break when Major Power is used.
+* **Rings:**
+    * **Bone:** Minor (Gain THP equal to 2x damage dealt; target can't heal). Major (AoE **10d10 necrotic**; kills become shadows).
+    * **Copper:** Minor (+2d6 force on hit; 1d6 force AoE). Major (Hit: **12d12 force** + 60ft push/prone. AoE: **6d6 force** + prone).
+    * **Glass:** Minor (Hit causes Blindness, DC 18 Wis). Major (1 hour Invisibility + Illusions causing **8d8 psychic**).
+    * **Gold:** Minor (Hit causes Frightened, DC 18 Wis). Major (AoE Frightened and Paralyzed, DC 20 Wis).
+    * **Iron:** Minor (Spectral copy attacks second target). Major (Bonus action Teleport 60ft + *Gate* spell).
+    * **Lead:** Minor (Hit removes reaction/movement, DC 18 Con). Major (Hit: **10d8 force**, reduce AC/Atk, destroy nonmagical gear).
+    * **Opal:** Minor (Learn stats + track location). Major (Truesight 120ft + *Foresight*).
+    * **Silver:** Minor (Dispel Magic 4th level+ on hit). Major (*Antimagic Field*).
+
+###FILE: Seafarer's Staff
+---
+type: Staff
+rarity: Uncommon
+attunement: False
+source: A Selection of Staves
+---
+*Staff, Uncommon*
+
+**Origins:** A paddle.
+
+**Mechanics:**
+* **Blind:** Bonus action to fling dirt/sand. DC 12 Dex save or blinded.
+
+###FILE: Olive Branch
+---
+type: Staff
+rarity: Rare
+attunement: True (Spellcaster)
+source: A Selection of Staves
+---
+*Staff, Rare (Requires Attunement by Spellcaster)*
+
+**Origins:** Stout olive branch sprouting leaves.
+
+**Mechanics:**
+* **Peace:** Advantage on Persuasion to de-escalate.
+* **Spells:** Cast *Calm Emotions*, *Sanctuary*, and *Zone of Truth* (1/Day each).
+
+###FILE: Heroic Flagstaff
+---
+type: Staff
+rarity: Uncommon
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Uncommon (Requires Attunement)*
+
+**Origins:** Topped with a red swallowtail banner.
+
+**Mechanics:**
+* **Banner:** Plant to cast *Crusader's Mantle* (1/Day). Lasts as long as banner stands.
+* **Vulnerable:** If taken down by enemy, loses magic for 24 hours.
+
+###FILE: Verdant Staff
+---
+type: Staff
+rarity: Rare
+attunement: True (Nature Cleric or Druid)
+source: A Selection of Staves
+---
+*Staff, Rare (Requires Attunement by Nature Cleric or Druid)*
+
+**Origins:** Stick of petrified vines.
+
+**Mechanics:**
+* **Bonus:** **+1 bonus** to attack and damage.
+* **Reach:** Attack at range (as *Thorn Whip*).
+* **Spells:** Cast *Barkskin*, *Entangle*, or *Spike Growth* (1/Day).
+* **Alarm:** Writhes near aberrations/undead.
+* **Weakness:** *Blight* spell disables magic for 1d6 days.
+
+###FILE: The Lonely Wayfarer's Walking Stick
+---
+type: Staff
+rarity: Uncommon
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Uncommon (Requires Attunement)*
+
+**Origins:** Worn, well-maintained walking stick.
+
+**Mechanics:**
+* **Speak:** Ability to speak with plants and animals (not necessarily friendly).
+
+###FILE: Staff of Cadmus
+---
+type: Staff
+rarity: Rare
+attunement: False
+source: A Selection of Staves
+---
+*Staff, Rare*
+
+**Origins:** Red lacquer with three painted dragons.
+
+**Mechanics:**
+* **Summon:** Plant staff to summon Skeletal Warrior (Veteran stats).
+* **Charge:** 3 charges (represented by dragons). Staff becomes nonmagical when empty.
+
+###FILE: Robin's Roost
+---
+type: Staff
+rarity: Uncommon
+attunement: False
+source: A Selection of Staves
+---
+*Staff, Uncommon*
+
+**Origins:** Topped with birdhouse for awakened robin "Milford".
+
+**Mechanics:**
+* **Messenger:** Cast *Animal Messenger* using Milford. Must wait for his return.
+
+###FILE: Gnomon
+---
+type: Staff
+rarity: Rare
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Rare (Requires Attunement)*
+
+**Origins:** Stone-like spike.
+
+**Mechanics:**
+* **Shadow:** Action to connect shadow to creature's shadow.
+* **Paralyze:** Target is paralyzed (frozen in time) until end of next turn (1/Day).
+* **Cooldown:** Staff casts no shadow for 1d12 days after use.
+
+###FILE: Celebrant's Crosier
+---
+type: Staff
+rarity: Very Rare
+attunement: True (Cleric)
+source: A Selection of Staves
+---
+*Staff, Very Rare (Requires Attunement by a Cleric)*
+
+**Origins:** Golden staff with dragon heads and crystal.
+
+**Mechanics:**
+* **Bonus:** **+2 bonus** to spell attack rolls. Resistance to necrotic/radiant.
+* **Charges:** 10 charges (regains 2d4+2 at dawn).
+* **Spells:** *Beacon of Hope* (3), *Bless* (1), *Ceremony* (1), *Dispel Evil and Good* (5), *Sanctuary* (1).
+* **Temple:** Create *Temple of the Gods* (permanent after 100 years).
+
+###FILE: Staff of Ribbons
+---
+type: Staff
+rarity: Rare
+attunement: True (Monk)
+source: A Selection of Staves
+---
+*Staff, Rare (Requires Attunement by a Monk)*
+
+**Origins:** Bamboo staff with streamers.
+
+**Mechanics:**
+* **Blur:** During Flurry of Blows, enemies have disadvantage on attacks against you (visual obstruction).
+
+###FILE: Sober Thyrsus
+---
+type: Staff
+rarity: Uncommon
+attunement: True
+source: A Selection of Staves
+---
+*Staff, Uncommon (Requires Attunement)*
+
+**Origins:** Iron rod topped with pine cone.
+
+**Mechanics:**
+* **Bonus:** **+1 bonus** vs Fey.
+* **Madness:** Hit on Fey forces DC 15 Wis save. Fail = Attack self or random move. Success = Immune 24 hours.
+
+###FILE: Grand Staff
+---
+type: Staff
 rarity: Legendary
-attunement: False
-source: Arcane Armoury Vol 1
+attunement: True (Bard)
+source: A Selection of Staves
 ---
-# Elixir of Absolution
-*Potion, Legendary*
+*Staff, Legendary (Requires Attunement by a Bard)*
 
-**Origins:** A sinner seeking forgiveness.
-
-**Description:** When shaken, the foam forms faces of people important to the holder before disappearing.
+**Origins:** White birch staff with grooves.
 
 **Mechanics:**
-* **Total Erasure:** The potion can only be used once. When drank, the whole universe forgets everything they know about the user (excluding the user themselves).
-* **Effects:** Parents forget having a child, crimes are explained away as accidents, and documents verifying existence are written off as false.
-* **Note:** You are still a physical creature; enemies in combat will continue to attack you as a "nameless wanderer," though they will not know who you are.
-
-###FILE: Flamechaser Bottle
----
-type: Wondrous Item
-rarity: Rare
-attunement: False
-source: Arcane Armoury Vol 1
----
-# Flamechaser Bottle
-*Wondrous Item, Rare*
-
-**Origins:** A genie warlord.
-
-**Description:** A porcelain bottle covered in engravings of sea creatures.
-
-**Mechanics:**
-* **Charges:** The bottle has **3 charges** and regains 1d3 at sunrise (must be touched by sunrays).
-* **Extinguish:** Open the bottle and expend 1 charge to immediately extinguish all magical and normal flames within 30 feet (including *Wall of Fire*).
-* **Banish Fire:** Any fire elementals (including Fire Snakes/Salamanders) in the area must succeed on a **DC 15 Charisma save** or be banished.
-* **Plane of Fire:** The bottle cannot be opened on the Plane of Fire.
-
-###FILE: Fools Chapeau
----
-type: Wondrous Item
-rarity: Uncommon
-attunement: False
-source: Arcane Armoury Vol 1
----
-# Fool's Chapeau
-*Wondrous Item, Uncommon*
-
-**Origins:** An infamous gnome prankster.
-
-**Description:** Looks sophisticated on a shelf, but turns into a ridiculous, plumage-covered abomination when worn.
-
-**Mechanics:**
-* **Spells:** While wearing the hat, you can cast *Tasha's Hideous Laughter* (DC 15) as an action by expending 1 charge.
-* **Charges:** The hat has **3 charges** and regains all charges daily at midnight.
-* **Curse:** As soon as it is put on, you look ridiculous. You have **disadvantage on all Persuasion and Intimidation checks**. The hat requires *Remove Curse* to take off.
-
-###FILE: Gamblers Club
----
-type: Weapon (Any Bludgeoning)
-rarity: Uncommon
-attunement: False
-source: Arcane Armoury Vol 1
----
-# Gambler's Club
-*Weapon (Any Bludgeoning), Uncommon*
-
-**Origins:** An odd casino that gave items as rewards.
-
-**Description:** Has a massive crystal die at the top that lights up when it hits a creature.
-
-**Mechanics:**
-* **Bonus:** You have a **+1 bonus** to attack and damage rolls.
-* **The Gamble:** Whenever you declare an attack action, roll any die:
-    * **Even Result:** All attacks this turn are made with **Advantage**.
-    * **Odd Result:** All attacks this turn are made with **Disadvantage**.
-* **Commitment:** You cannot cancel your attack after rolling the die.
-
-###FILE: Giggling Bracelet
----
-type: Wondrous Item
-rarity: Common
-attunement: False
-source: Arcane Armoury Vol 1
----
-# Giggling Bracelet
-*Wondrous Item, Common*
-
-**Origins:** A travelling troupe.
-
-**Description:** A golden bracelet with silly imagery.
-
-**Mechanics:**
-* **Fearless Humor:** You have **advantage on all saving throws against fear**.
-* **Uncontrollable Laughter:** You have **disadvantage on all saving throws** against magic/effects that cause you to laugh uncontrollably.
-
-###FILE: Golden Cutlery
----
-type: Wondrous Item (Set)
-rarity: Uncommon
-attunement: False (Special)
-source: Arcane Armoury Vol 1
----
-# Golden Cutlery
-*Wondrous Item (Set), Uncommon*
-
-**Origins:** A halfling wizard with an aptitude for cooking.
-
-**Description:** A set including a spoon, fork, and knife, masterfully crafted.
-
-**Mechanics:**
-* **The Spoon:** Has 3 charges (regains 1d3 at dawn). Expend 1 charge to cast *Create or Destroy Water* or *Detect Poison and Disease*.
-* **The Fork:** Has 3 charges (regains 1d3 at dawn). Expend 1 charge to cast *Goodberry*. You choose the guise of the food (e.g., a roast or bread).
-* **The Knife:** Acts as a Dagger (+1 bonus). As a bonus action, can transform into a Shortsword, Longsword, or Greatsword.
-* **Set Bonus:** If you possess all three, you can attune to the set. You gain proficiency (and expertise/double proficiency) in **Cook's Utensils** and **Brewer's Supplies**.
-
-###FILE: Graverobbers Mittens
----
-type: Wondrous Item (Gauntlets)
-rarity: Uncommon
-attunement: True
-source: Arcane Armoury Vol 1
----
-# Graverobber's Mittens
-*Gauntlets, Uncommon (Requires Attunement)*
-
-**Origins:** An influential dungeoneer.
-
-**Description:** Decorated with fine necrotic motifs, often mistaken for work gloves.
-
-**Mechanics:**
-* **Undead Resilience:** You have **advantage on Constitution saving throws** caused by undead creatures (e.g., Ghoul's Stench, Wraith's Life Drain).
-* **Flight Response:** At the start of your turn, if a hostile undead is within 30ft, you may take the **Dash action as a bonus action**.
+* **Bonus:** **+3 bonus** to attack, damage, and spell attack rolls.
+* **Charges:** 20 charges (regains 3d6+2 at dawn). Regains 1d6+2 on d20 roll of 20 when empty.
+* **Constructive Interference:** Reaction (4 charges) to grant advantage on ally's spell attack or disadvantage on target's save.
+* **Destructive Interference:** Reaction (5 charges) to cast 5th-level *Counterspell* (+3 check bonus).
+* **Resonant Strike:** Expend 1 charge on hit for extra **1d8 thunder**.
+* **Antiresonance:** After 3 Resonant Strikes on same target, action (5 charges) to deal **10d10 force damage** (DC 20 Con half).
+* **Spells:** *Confusion* (4), *Dispel Magic* (5), *Otto's Irresistible Dance* (6), *Power Word Stun* (8), *Shatter* (2), *Telekinesis* (5), *Thunderwave* (1), *Wall of Force* (5).
